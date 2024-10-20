@@ -16,7 +16,3 @@ Fill out the form on the main page with the keyword, number of images, and your 
 Submit the form to start the image download and emailing process.
 
 Check your email for the zip file containing the downloaded images.
-
-# Example:
-![image](![Uploading C97B53EE-9C6F-4952-9568-B8B895B91831.jpeg…]()
-)
