@@ -18,4 +18,5 @@ Submit the form to start the image download and emailing process.
 Check your email for the zip file containing the downloaded images.
 
 # Example:
-![image](file:///var/folders/lq/sd4243cn4tq1cs8fs17cgd180000gn/T/TemporaryItems/NSIRD_screencaptureui_srzoYa/Screenshot%202024-10-20%20at%2011.39.56%E2%80%AFPM.png)
+![image](![Uploading C97B53EE-9C6F-4952-9568-B8B895B91831.jpeg…]()
+)
